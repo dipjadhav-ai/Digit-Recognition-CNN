@@ -64,7 +64,3 @@ def predict(img):
     _, predicted = torch.max(output, 1)
 
     return predicted.item()
-
-
-
-
