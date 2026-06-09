@@ -46,9 +46,13 @@ async function predictDigit(){
 
     try{
 
+        document.getElementById(
+            "result"
+        ).innerHTML="Loading the results............";
+        
         const response =
         await fetch(
-            "http://127.0.0.1:8000/predict",
+            "https://digit-recognition-cnn-arau.onrender.com/predict",
             {
                 method:"POST",
                 body:formData
