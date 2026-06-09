@@ -218,25 +218,13 @@ Add screenshots inside the `screenshots` folder and reference them here.
 
 This project helped me learn:
 
-- Convolutional Neural Networks (CNNs)
+- Practical Implementation of the Convolutional Neural Networks (CNNs) using PyTorch
 - Image preprocessing techniques
 - Model deployment using FastAPI
 - REST API development
 - Frontend–Backend integration
 - Cloud deployment with Render and Netlify
 - Git and GitHub workflow
-
----
-
-## Future Improvements
-
-- Drag-and-drop image upload
-- Confidence score display
-- Batch image prediction
-- Mobile-responsive UI improvements
-- Docker containerization
-- CI/CD pipeline integration
-
 ---
 
 ## Author
