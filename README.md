@@ -4,7 +4,7 @@ A Machine Learning web application that recognizes handwritten digits (0–9) fr
 
 ## Live Demo
 
-Frontend: [[Click Here](https://6a27f6f223e9ce042d534afc--lively-semifreddo-f67b45.netlify.app/)]
+Working Link: [[Click Here](https://6a27f6f223e9ce042d534afc--lively-semifreddo-f67b45.netlify.app/)]
 
 Backend API: [[Click Here](https://digit-recognition-cnn-arau.onrender.com/predict)]
 
