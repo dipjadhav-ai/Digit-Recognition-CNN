@@ -245,7 +245,7 @@ This project helped me learn:
 
 Mechanical Engineering, IIT Madras
 
-GitHub: https://github.com/<your-github-username>
+GitHub: https://github.com/<dipjadhav-ai>
 
 LinkedIn: [[Click Here](https://www.linkedin.com/in/dip-jadhav-70883134a/)]
 
