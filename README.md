@@ -98,8 +98,6 @@ The model outputs probabilities for digits:
 ```text
 DIGIT-RECOGNITION-CNN
 │
-├── data/
-│
 ├── frontend/
 │   ├── index.html
 │   ├── style.css
@@ -112,8 +110,6 @@ DIGIT-RECOGNITION-CNN
 │   └── requirements.txt
 │
 ├── notebooks/
-│
-├── screenshots/
 │
 └── README.md
 ```
